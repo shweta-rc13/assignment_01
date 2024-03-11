@@ -1,0 +1,46 @@
+/* NumberCounter.css */
+
+
+.container {
+
+    text-align: center;
+    margin-top: 20px;
+
+  }
+  .input-container{
+    margin-bottom: 20px;
+  }
+
+  
+  input {
+    font-size: 18px;
+    padding: 8px;
+    text-align: center;
+    width: 80px;
+    margin-right: 10px;
+    color: black;
+    background-color: bisque;
+
+
+  }
+  
+  button {
+    font-size: 16px;
+    padding: 8px 16px;
+    margin: 5px;
+    cursor: pointer;
+
+ 
+    background-color: #4caf50; 
+    color: white;
+    border: none;
+    width: 100px;
+  }
+  button + button {
+    margin-left: 10px;
+  }
+  button:hover{
+    background-color: #45a049;
+  }
+
+  
